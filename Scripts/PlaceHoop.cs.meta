@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 952442cedbfe741409b5f796a8434ed1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hoopPrefab: {fileID: 919132149155446097, guid: 546791a57a1a65f4a9e4fad37ef269f0, type: 3}
+  - placementIndicator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
